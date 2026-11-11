@@ -9,7 +9,7 @@
     "upgrade": "node scripts/upgrade.mjs"
   },
   "dependencies": {
-    "next": "15.1.7",
+    "next": "15.5.28",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
     "tailwindcss": "^3"
